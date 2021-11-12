@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259431727067",
+    "project_id": "rs-car-owner",
+    "storage_bucket": "rs-car-owner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259431727067:android:6fbf1814c194b3855131fe",
+        "android_client_info": {
+          "package_name": "com.example.rs_car_owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259431727067-uh91ugfflf3qus4fk7s7mk9bkp1o7kqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rs_car_owner",
+            "certificate_hash": "dfb764f1a5a78a660afb2911b34fd089c6fdd05a"
+          }
+        },
+        {
+          "client_id": "259431727067-g0iuj2jlg71ufsqa4ocp59lvufjh6qq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIMb_x6kPqoTb-64Q8i0tMYgBA00p6ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259431727067-g0iuj2jlg71ufsqa4ocp59lvufjh6qq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
